@@ -1,8 +1,7 @@
+customtkinter
 keyboard
 pyperclip
 cryptography
 WMI
 pystray
 Pillow
-colorama
-pyinstaller
